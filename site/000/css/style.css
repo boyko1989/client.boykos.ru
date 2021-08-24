@@ -182,3 +182,11 @@ h6 {
 .page {
    margin-top: 150px;
 }
+
+input[type=url] {
+   width: 400px;
+   padding: 5px;
+   font-family: Arial;
+   border-radius: 5px;
+   border: solid 1px #000;
+}
