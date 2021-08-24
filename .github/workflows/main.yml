@@ -1,8 +1,8 @@
 name: deploy-scripts
 env:
-  DOMAIN_NAME: "src.boykos.ru"
+  DOMAIN_NAME: "client.boykos.ru"
   USER_NAME: "ubuntu"
-  REPO_NAME: "src.boykos"
+  REPO_NAME: "client.boykos"
   
 on:
   push:
