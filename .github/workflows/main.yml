@@ -2,7 +2,7 @@ name: deploy-scripts
 env:
   DOMAIN_NAME: "client.boykos.ru"
   USER_NAME: "ubuntu"
-  REPO_NAME: "client.boykos"
+  REPO_NAME: "client.boykos.ru"
   
 on:
   push:
